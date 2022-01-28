@@ -1,0 +1,24 @@
+{
+  "name": "testing-repo",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memelopez/testing-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memelopez/testing-repo/issues"
+  },
+  "homepage": "https://github.com/memelopez/testing-repo#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "jest": "^27.4.7"
+  }
+}
